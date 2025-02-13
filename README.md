@@ -1,4 +1,4 @@
-# Free Temporary-Email Website
+# Free Temporary Email Website
 # MailNever.Online
 
 Welcome to **[MailNever.Online](https://mailnever.online)** – your go-to solution for disposable email addresses! Whether you're signing up for a new service, avoiding spam, or just need a temporary email, MailNever.Online has got you covered.
